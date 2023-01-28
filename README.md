@@ -23,4 +23,4 @@ Visualize the Strategy
 
 ![algo](https://user-images.githubusercontent.com/121168657/215057147-3a39fdb5-f422-4bac-91c8-8886aeda8b6f.JPG)
 
-With this Python code below we can generate signals to determine when to buy or sell  any stock or index in Indian stock market using Dual Moving Average Crossover Strategy.
+With this Python code, we can generate signals to determine when to buy or sell  any stock or index in Indian stock market using Dual Moving Average Crossover Strategy.
